@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thz:home|Door43 (thz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thz|d43-thz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thz/archive/master.zip|d43-thz.zip]]
+
+**Recent Changes**
+{{changes>ns = thz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thz|Ethnologue data]]
+
